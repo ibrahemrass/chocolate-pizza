@@ -54,4 +54,12 @@ body header h4{
     position: relative;
     top:-20px;
     left:50px;
+    color: gray;
+}
+header h1{
+    font-family: 'Kaushan Script', cursive;
+font-family: 'Lobster', cursive;
+}
+main h5{
+    color:gray;
 }
